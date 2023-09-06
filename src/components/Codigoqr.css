@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    
+}
+
+.contenedor{
+    text-align: center;
+  
+}
+
+.contenedor-principal{
+    background: rgb(67,203,255);
+    background: linear-gradient(164deg, rgba(67,203,255,1) 0%, rgba(36,53,187,1) 100%);
+    
+    width: auto;
+    height: 950px;
+}
+
+.cuadrado-codigoqr{
+    
+    background: white;
+    padding: 10px;
+
+}
+.logo{
+   width: 500px;
+   margin-bottom: -50px;
+   
+}
+
+h1{
+    padding-bottom: 40px;
+}
+
+.creditos{
+
+    margin-top: 100px;
+    font-size: 20px;
+    
+}
